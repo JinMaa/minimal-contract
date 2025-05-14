@@ -1,6 +1,6 @@
 # Minimal YieldVault Contract
 
-A minimal WebAssembly contract for the OylNet blockchain using the alkanes-rs framework.
+A minimal WebAssembly contract for Oylnet using the alkanes-rs framework.
 
 ## Overview
 
